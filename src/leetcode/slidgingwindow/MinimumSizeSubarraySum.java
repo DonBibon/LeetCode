@@ -9,7 +9,7 @@ package leetcode.slidgingwindow;
 public class MinimumSizeSubarraySum {
     public int minSubArrayLen(int target, int[] nums) {
         int minSize = Integer.MAX_VALUE;
-        int currSize = 0;
+
         int currSum = 0;
 
 
