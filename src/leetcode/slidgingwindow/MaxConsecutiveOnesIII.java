@@ -10,7 +10,7 @@ public class MaxConsecutiveOnesIII {
     public int longestOnes(int[] nums, int k) {
 
         int currZeros = 0;
-        int counter = 0;
+
         int left = 0;
 
         int maxLen = 0;
