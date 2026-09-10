@@ -5,7 +5,6 @@ import java.util.ArrayList;
 public class IsPalindromeNum {
     /**
      * Ссылка на задачу: <a href="https://leetcode.com/problems/palindrome-number/description/">Palindrome Number</a>
-     *
      * <b>Сложность: O(log N) (или O(кол-во цифр числа))</b>
      * <p> <b>Метод решения</b> </p>
      * Отсекаем отрицательные числа (они не палиндромы). Создаем копию числа.
