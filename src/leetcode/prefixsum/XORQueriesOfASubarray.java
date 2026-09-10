@@ -1,4 +1,4 @@
-package prefixsum;
+package leetcode.prefixsum;
 
 public class XORQueriesOfASubarray {
     /**

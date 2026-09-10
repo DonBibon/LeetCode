@@ -1,4 +1,4 @@
-package prefixsum;
+package leetcode.prefixsum;
 
 import java.util.ArrayList;
 import java.util.Arrays;
