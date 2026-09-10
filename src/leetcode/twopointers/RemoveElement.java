@@ -1,4 +1,4 @@
-package twopointers;
+package leetcode.twopointers;
 
 public class RemoveElement {
     /**
