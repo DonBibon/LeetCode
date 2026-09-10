@@ -18,7 +18,7 @@ public class AddTwoNumbers {
         ListNode res = dummyHead;
         int carryDig = 0;
         while (l1 != null || l2 != null || carryDig != 0){
-            int sum = 0;
+            int sum;
 
             int val1 = (l1 != null) ? l1.val : 0;
             int val2 = (l2 != null) ? l2.val : 0;

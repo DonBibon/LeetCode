@@ -9,7 +9,7 @@ package leetcode.slidgingwindow;
  */
 public class MaximumNumberOfVowelsInASubstringOfGivenLength {
     public int maxVowels(String s, int k) {
-        int maxVowel  = 0;
+        int maxVowel;
         int winSum = 0;
         for (int right = 0; right < k; right++){
             char curr = s.charAt(right);
