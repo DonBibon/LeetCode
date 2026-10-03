@@ -3,7 +3,11 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
+<<<<<<< HEAD
       <sourceFolder url="file://$MODULE_DIR$/codeforce" isTestSource="false" />
+=======
+      <sourceFolder url="file://$MODULE_DIR$/cses" isTestSource="false" />
+>>>>>>> 69c4a6b72b726e3236027ce2c04e2123e216a212
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
